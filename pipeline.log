@@ -1,0 +1,14 @@
+2026-10-07 09:03:16,610 - INFO - Stage 1: Raw Input Received
+2026-10-07 09:03:16,610 - INFO - Stage 2: Preprocessing Started
+2026-10-07 09:03:16,611 - INFO - Stage 2: Preprocessing Completed Successfully
+2026-10-07 09:03:16,611 - INFO - Stage 3: Inference Started
+2026-10-07 09:03:16,611 - INFO - Stage 3 Completed | Prediction: 1 | Confidence: 0.8145
+2026-10-07 09:03:16,617 - INFO - Data Distribution Normal. p-value: 0.0786
+2026-10-07 09:03:16,617 - INFO - Stage 4: Pipeline Response Prepared Successfully
+2026-10-07 09:03:16,618 - INFO - Stage 1: Raw Input Received
+2026-10-07 09:03:16,618 - INFO - Stage 2: Preprocessing Started
+2026-10-07 09:03:16,618 - INFO - Stage 2: Preprocessing Completed Successfully
+2026-10-07 09:03:16,618 - INFO - Stage 3: Inference Started
+2026-10-07 09:03:16,618 - INFO - Stage 3 Completed | Prediction: 1 | Confidence: 1.0000
+2026-10-07 09:03:16,619 - WARNING - ALERT: Data Drift Detected! p-value: 0.0000
+2026-10-07 09:03:16,619 - INFO - Stage 4: Pipeline Response Prepared Successfully
